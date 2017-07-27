@@ -42,12 +42,12 @@ twitter: dasydong
 linkedin: dasydong
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: dasydong
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 email: 791792409@qq.com
 
@@ -71,8 +71,8 @@ authors:
 width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
-paginate: 5
-paginate_path: "blog/:num/"
+#paginate: 5
+#paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
