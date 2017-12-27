@@ -108,4 +108,4 @@ gems:
 jekyll-mentions:
     base_url: https://github.com
 
-theme: jekyll-theme-dinky
+theme: jekyll-theme-cayman
