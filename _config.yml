@@ -1,6 +1,6 @@
 # main text of home
 name: Dasy Dong
-bio: A Man who travels the world eating noodles
+bio: A Man who likes enjoying and playing
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -34,12 +34,12 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: dasydong
+#facebook: dasydong
 twitter: dasydong
-# google: mygoogle
+google: dasydong@gmail.com
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: dasydong
+#linkedin: dasydong
 # youtube: myyoutube
 # spotify: myspotify
 github: dasydong
@@ -52,18 +52,12 @@ github: dasydong
 email: 791792409@qq.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    Dong:
+        name: Dong
+        bio: A Man who likes enjoying and playing
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
