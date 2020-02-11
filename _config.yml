@@ -1,6 +1,6 @@
 # main text of home
 name: Dasy Dong
-bio: A Man who likes enjoying and playing
+bio: The man who likes enjoying and playing
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -8,13 +8,13 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: 'assets/images/profile.jpg'
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+#resume: true
+#resume-external: true
+#resume-url: https://google.com/?q=my+resume
 
 url: https://dasydong.github.io
 # your url: http://USERNAME.github.io
@@ -31,7 +31,7 @@ permalink: /:title/
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  categories: [] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 #facebook: dasydong
@@ -39,7 +39,7 @@ twitter: dasydong
 google: dasydong@gmail.com
 # instagram: myinstagram
 # pinterest: mypinterest
-#linkedin: dasydong
+linkedin: dasydong
 # youtube: myyoutube
 # spotify: myspotify
 github: dasydong
@@ -49,15 +49,14 @@ github: dasydong
 # reddit: username
 # medium: medium
 # vimeo: myvimeo
-email: 791792409@qq.com
 
 authors:
     Dong:
         name: Dong
-        bio: A Man who likes enjoying and playing
+        bio: The Man who likes enjoying and playing
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
+        twitter: dasydong
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -65,11 +64,11 @@ authors:
 width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
-#paginate: 5
-#paginate_path: "blog/:num/"
+paginate: 8
+paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+#projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
@@ -98,6 +97,7 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-paginate
 
 jekyll-mentions:
     base_url: https://github.com

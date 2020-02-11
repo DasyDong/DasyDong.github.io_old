@@ -2,7 +2,7 @@
     <h2 align="center">Jekyll Template - <a href="https://dasydong.github.io/">Demo</a></h2>
 </p>
 
-<p align="center">This is a simple and minimalist template for Jekyll for those who likes to eat noodles.</p>
+<p align="center">This is a simple and minimalist template for Jekyll </p>
 
 ***
 
@@ -30,7 +30,7 @@
 ## Setup
 
 0. :star: to the project. :metal:
-2. Fork the project [Indigo](https://github.com/sergiokopplin/indigo/fork)
+2. Fork the project [DONG](https://github.com/DasyDong/DasyDong.github.io/fork)
 3. Edit `_config.yml` with your data (check <a href="README.md#settings">settings</a> section)
 4. Write some posts :bowtie:
 
@@ -49,7 +49,7 @@ You must fill some informations on `_config.yml` to customize your site.
 
 ```
 name: Dasy Dong
-bio: 'A Man who travels the world eating noodles'
+bio: 'The Man who likes enjoying and playing'
 picture: 'assets/images/profile.jpg'
 ...
 
