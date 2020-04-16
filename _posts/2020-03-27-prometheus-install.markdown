@@ -1,5 +1,5 @@
 ---
-title: "通过部署prometheus operator "
+title: "部署prometheus"
 layout: post
 date: 2020-03-03 15:38
 image: /assets/images/markdown.jpg
